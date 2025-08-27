@@ -1,0 +1,12 @@
+PORT=3000
+HOST=localhost
+DB=dars_6
+PASSWORD=javohir9933
+USER_NAME=root
+
+JWT_SECRET=G7v$2k!Qp@9sXwZ1
+
+OTP_SECRET=zR9*Q!mX1&b^6VwJ
+
+EMAIL_USER=djakhadeveloper@gmail.com
+EMAIL_PASS=rffj iurs vnys acvk
